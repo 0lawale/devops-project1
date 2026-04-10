@@ -1,4 +1,4 @@
-# DevOps Project 1 — Go Task Manager API with GitLab CI/CD
+# DevOps Project 1 — Go Task Manager API with GitHub Actions
 
 A production-grade REST API built in Go, fully containerised with Docker and deployed
 automatically to AWS EC2 via a GitLab CI/CD pipeline.
